@@ -129,7 +129,10 @@ justify-content: space-between;
     .img-card{
       margin-left: 0;
     }
-  
+    .para{
+      margin: 0 auto ;
+      text-align: center;
+    }
 } 
 
   
