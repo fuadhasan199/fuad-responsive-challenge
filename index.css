@@ -122,6 +122,13 @@ justify-content: space-between;
     align-items: center;
     text-align: center;
     } 
+    .heading-banar{
+      width: 90%;
+      margin: 20px 0;
+    }
+    .img-card{
+      margin-left: 0;
+    }
   
 } 
 
